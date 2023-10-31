@@ -22,18 +22,18 @@ body {
 	font-size: 26px;
 }
 
-.nav ul {
+.main_navbar ul {
 	display: flex;
 	list-style-type: none;
 	font-size: 14px;
 	margin-bottom: 0;
 }
 
-.nav li {
+.main_navbar li {
 	padding-inline: 10px;
 }
 
-.nav a {
+.main_navbar a {
 	text-decoration: none;
 	color: #000
 }
